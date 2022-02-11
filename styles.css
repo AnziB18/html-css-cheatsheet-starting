@@ -8,7 +8,7 @@ html {
     border: 2px solid rgb(200, 200, 200);
     letter-spacing: 1px;
     font-size: 0.8rem;
-    border-collapse: separate;
+    /*border-collapse: separate;*/
     border-spacing: 1px;
   }
   
